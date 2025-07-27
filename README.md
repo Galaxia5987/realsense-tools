@@ -14,7 +14,7 @@ A GUI for running a trained YOLOv8 `.pt` model on live RealSense camera input.
 
 ## Installation
 
-1. Clone the repository: `git clone http://github.com/CHANGEME/CHANGEME`
+1. Clone the repository: `git clone http://github.com/Galaxia5987/realsense-tools`
 
 2. Make a virtual enviroment and install dependencies: 
 ```bash
