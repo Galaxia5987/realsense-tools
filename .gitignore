@@ -1,0 +1,12 @@
+best.pt
+best.rknn
+best.onnx
+
+captured_images/
+
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
