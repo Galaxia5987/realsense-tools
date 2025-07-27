@@ -14,11 +14,11 @@ A GUI for running a trained YOLOv8 `.pt` model on live RealSense camera input.
 
 ## Installation
 
-1. Clone the repository: `git clone http://github.com/Galaxia5987/realsense-tools`
+1. Clone the repository: `git clone https://github.com/Galaxia5987/realsense-tools`
 
 2. Make a virtual enviroment and install dependencies: 
 ```bash
-cd CHANGEME
+cd realsense-tools
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
