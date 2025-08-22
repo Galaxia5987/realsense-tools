@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  robotpy:
+    build: .
+    container_name: robotpy_build
+    tty: true
+    stdin_open: true
+
