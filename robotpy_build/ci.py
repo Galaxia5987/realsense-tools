@@ -77,7 +77,7 @@ def build_pyntcore(ctx: Context):
   # Fix build dependencies to be == what we are building
   # - install_requires already has this via ==THIS_VERSION in robotpy-build
   for project in ctx.subprojects.values():
-    if project.name != "pyntcore" and project.name != "robotpy-wpiutil" and project.name != "robotpy-wpinet":
+    if project.name != "pyntcore" and project.name != "robotpy-wpiutil" and project.name != "robotpy-wpinet" and project.name != "robotpy-wpimath":
       continue
     project.install_build_deps(wheel_path=ctx.wheel_path)
     project.bdist_wheel(wheel_path=ctx.wheel_path, install=True)
