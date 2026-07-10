@@ -4,19 +4,18 @@ This repository contains Python scripts for working with Intel RealSense cameras
 
 ## Scripts
 
-### 1. `image_capture.py`
+### Data Collection
 
-A simple GUI for capturing images from a RealSense camera.
+The `datacollection` folder holds two scripts for working with data collection:
 
-### 2. `detection_gui.py`
-
-A GUI for running a trained YOLOv8 `.pt` model on live RealSense camera input.
+* `image_capture.py` - an interactive GUI for capturing images from an Intel RealSense camera.
+* `depth_extractor.py` - a script for extracting depth .png images from .raw files. Used for visualisation
 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/Galaxia5987/realsense-tools`
 
-2. Make a virtual enviroment and install dependencies: 
+2. Make a virtual environment and install dependencies: 
 ```bash
 cd realsense-tools
 python3 -m venv .venv
