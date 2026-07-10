@@ -6,10 +6,11 @@ This repository contains Python scripts for working with Intel RealSense cameras
 
 ### Data Collection
 
-The `datacollection` folder holds two scripts for working with data collection:
+The `datacollection` folder holds scripts for working with data collection:
 
 * `image_capture.py` - an interactive GUI for capturing images from an Intel RealSense camera.
-* `depth_extractor.py` - a script for extracting depth .png images from .raw files. Used for visualisation
+* `annotation_transfer.py` - a script for transferring annotations from .png files to .raw files.
+* `depth_extractor.py` - Quality-of-life script for extracting depth .png images from .raw files, for visualisation only.
 
 ## Installation
 
