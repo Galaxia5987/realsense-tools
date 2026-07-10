@@ -1,5 +1,7 @@
+models/annotated/
 datacollection/dataset/
 datacollection/dataset-bak/
+runs/
 captured_images/
 
 .venv
