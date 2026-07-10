@@ -28,9 +28,9 @@ for label_file in os.listdir(roboflow_labels_dir):
     if os.path.exists(source_raw_path):
         shutil.copy(source_raw_path, target_raw_path)
 
-        jpg_path = os.path.join(roboflow_images_dir, f"{base_name}.png")
-        if os.path.exists(jpg_path):
-            os.remove(jpg_path)
+        png_path = os.path.join(roboflow_images_dir, f"{base_name}.png")
+        if os.path.exists(png_path):
+            os.remove(png_path)
 
         old_label_path = os.path.join(roboflow_labels_dir, label_file)
         new_label_path = os.path.join(roboflow_labels_dir, f"{original_name}.txt")
