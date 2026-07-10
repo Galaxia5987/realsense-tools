@@ -1,4 +1,5 @@
 datacollection/dataset/
+datacollection/dataset-bak/
 captured_images/
 
 .venv
@@ -7,3 +8,4 @@ __pycache__/
 *.pyo
 *.pyd
 *.pkl
+*.pt
