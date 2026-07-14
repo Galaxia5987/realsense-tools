@@ -1,0 +1,14 @@
+[project]
+name = "realsense-tools"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ultralytics>=8.4.95",
+    "opencv-python",
+    "pyrealsense2",
+    "Pillow",
+    "numpy",
+    "torch",
+]
