@@ -11,4 +11,5 @@ dependencies = [
     "Pillow",
     "numpy",
     "torch",
+    "ipykernel>=7.3.0",
 ]
