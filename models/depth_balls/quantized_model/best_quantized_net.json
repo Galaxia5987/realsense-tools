@@ -39,8 +39,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 65.53500366210938,
-						"scale": 0.25700002908706667,
+						"maximum": 1.0,
+						"scale": 0.003921568859368563,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -73,10 +73,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -19.053142547607423,
-						"maximum": 675.025634765625,
-						"scale": 2.7218775749206545,
-						"offset": -7,
+						"minimum": -21.205883026123048,
+						"maximum": 654.731689453125,
+						"scale": 2.650735378265381,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -108,10 +108,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 5575.42626953125,
-						"scale": 21.864418029785158,
-						"offset": 0,
+						"minimum": -0.4273586571216583,
+						"maximum": 108.5490951538086,
+						"scale": 0.4273586571216583,
+						"offset": -1,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -180,10 +180,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -6257.43017578125,
-						"maximum": 5562.16015625,
-						"scale": 46.35133361816406,
-						"offset": -135,
+						"minimum": -93.88787078857422,
+						"maximum": 109.00540161132813,
+						"scale": 0.7956598997116089,
+						"offset": -118,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -217,8 +217,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": -0.0,
-						"maximum": 17706.794921875,
-						"scale": 69.43840789794922,
+						"maximum": 287.97125244140627,
+						"scale": 1.1292990446090699,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -288,10 +288,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -13179.822265625,
-						"maximum": 17653.70703125,
-						"scale": 120.9157943725586,
-						"offset": -109,
+						"minimum": -259.7591247558594,
+						"maximum": 287.6671142578125,
+						"scale": 2.1467695236206056,
+						"offset": -121,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -324,10 +324,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -152.72683715820313,
-						"maximum": 241.43556213378907,
-						"scale": 1.5457348823547364,
-						"offset": -99,
+						"minimum": -9.885335922241211,
+						"maximum": 16.986295700073243,
+						"scale": 0.10537894815206528,
+						"offset": -94,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -360,10 +360,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 241.43556213378907,
-						"scale": 0.9468061327934265,
-						"offset": 0,
+						"minimum": -0.2706979513168335,
+						"maximum": 16.986295700073243,
+						"scale": 0.06767448782920838,
+						"offset": -4,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -396,10 +396,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 241.43556213378907,
-						"scale": 0.9468061327934265,
-						"offset": 0,
+						"minimum": -0.2706979513168335,
+						"maximum": 16.986295700073243,
+						"scale": 0.06767448782920838,
+						"offset": -4,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -432,10 +432,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 241.43556213378907,
-						"scale": 0.9468061327934265,
-						"offset": 0,
+						"minimum": -0.2706979513168335,
+						"maximum": 16.986295700073243,
+						"scale": 0.06767448782920838,
+						"offset": -4,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -504,10 +504,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -404.5643310546875,
-						"maximum": 240.21006774902345,
-						"scale": 2.528527021408081,
-						"offset": -160,
+						"minimum": -18.744863510131837,
+						"maximum": 16.926332473754884,
+						"scale": 0.13988704979419709,
+						"offset": -134,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -540,10 +540,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.22422844171524049,
-						"maximum": 56.95402526855469,
-						"scale": 0.22422844171524049,
-						"offset": -1,
+						"minimum": -0.2771957218647003,
+						"maximum": 8.558418273925782,
+						"scale": 0.03464946523308754,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -577,8 +577,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9998082518577576,
+						"scale": 0.003920816816389561,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -612,10 +612,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -153.43679809570313,
-						"maximum": 56.92010498046875,
-						"scale": 0.8249290585517883,
-						"offset": -186,
+						"minimum": -12.464973449707032,
+						"maximum": 8.585147857666016,
+						"scale": 0.08254949748516083,
+						"offset": -151,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -648,10 +648,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -152.72683715820313,
-						"maximum": 180.13934326171876,
-						"scale": 1.305357575416565,
-						"offset": -117,
+						"minimum": -9.885335922241211,
+						"maximum": 14.352747917175293,
+						"scale": 0.09505131095647812,
+						"offset": -104,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -684,10 +684,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -59.008506774902347,
-						"maximum": 147.11709594726563,
-						"scale": 0.8083357214927673,
-						"offset": -73,
+						"minimum": -4.9058098793029789,
+						"maximum": 10.929399490356446,
+						"scale": 0.06209885701537132,
+						"offset": -79,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -720,9 +720,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -105.15118408203125,
-						"maximum": 96.45447540283203,
-						"scale": 0.7906104326248169,
+						"minimum": -7.274395942687988,
+						"maximum": 6.672754287719727,
+						"scale": 0.054694708436727527,
 						"offset": -133,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -785,10 +785,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -110.41714477539063,
-						"maximum": 111.28657531738281,
-						"scale": 0.8694263696670532,
-						"offset": -127,
+						"minimum": -10.197369575500489,
+						"maximum": 10.773027420043946,
+						"scale": 0.08223684877157211,
+						"offset": -124,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -821,10 +821,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -424.874755859375,
-						"maximum": 6346.56640625,
-						"scale": 26.554672241210939,
-						"offset": -16,
+						"minimum": -21.198379516601564,
+						"maximum": 56.0242919921875,
+						"scale": 0.30283400416374209,
+						"offset": -70,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -857,10 +857,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -11.591516494750977,
-						"maximum": 13.45794677734375,
-						"scale": 0.0982331857085228,
-						"offset": -118,
+						"minimum": -1.9593852758407593,
+						"maximum": 1.4628287553787232,
+						"scale": 0.013420446775853634,
+						"offset": -146,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -893,10 +893,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -110.41714477539063,
-						"maximum": 111.28657531738281,
-						"scale": 0.8694263696670532,
-						"offset": -127,
+						"minimum": -10.197369575500489,
+						"maximum": 10.773027420043946,
+						"scale": 0.08223684877157211,
+						"offset": -124,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -924,10 +924,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -110.41714477539063,
-						"maximum": 111.28657531738281,
-						"scale": 0.8694263696670532,
-						"offset": -127,
+						"minimum": -10.197369575500489,
+						"maximum": 10.773027420043946,
+						"scale": 0.08223684877157211,
+						"offset": -124,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -960,10 +960,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -120.93128204345703,
-						"maximum": 159.409423828125,
-						"scale": 1.0993752479553223,
-						"offset": -110,
+						"minimum": -11.065728187561036,
+						"maximum": 14.355538368225098,
+						"scale": 0.099691241979599,
+						"offset": -111,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -991,10 +991,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -120.93128204345703,
-						"maximum": 159.409423828125,
-						"scale": 1.0993752479553223,
-						"offset": -110,
+						"minimum": -11.065728187561036,
+						"maximum": 14.355538368225098,
+						"scale": 0.099691241979599,
+						"offset": -111,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1027,10 +1027,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -120.93128204345703,
-						"maximum": 159.409423828125,
-						"scale": 1.0993752479553223,
-						"offset": -110,
+						"minimum": -11.065728187561036,
+						"maximum": 14.355538368225098,
+						"scale": 0.099691241979599,
+						"offset": -111,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1099,10 +1099,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -120.93128204345703,
-						"maximum": 159.409423828125,
-						"scale": 1.0993752479553223,
-						"offset": -110,
+						"minimum": -11.065728187561036,
+						"maximum": 14.355538368225098,
+						"scale": 0.099691241979599,
+						"offset": -111,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1135,10 +1135,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -120.93128204345703,
-						"maximum": 159.409423828125,
-						"scale": 1.0993752479553223,
-						"offset": -110,
+						"minimum": -11.065728187561036,
+						"maximum": 14.355538368225098,
+						"scale": 0.099691241979599,
+						"offset": -111,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1171,10 +1171,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -120.93128204345703,
-						"maximum": 159.409423828125,
-						"scale": 1.0993752479553223,
-						"offset": -110,
+						"minimum": -11.065728187561036,
+						"maximum": 14.355538368225098,
+						"scale": 0.099691241979599,
+						"offset": -111,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1243,10 +1243,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -11.591516494750977,
-						"maximum": 13.45794677734375,
-						"scale": 0.0982331857085228,
-						"offset": -118,
+						"minimum": -1.9593852758407593,
+						"maximum": 1.4628287553787232,
+						"scale": 0.013420446775853634,
+						"offset": -146,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1279,10 +1279,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -78.52235412597656,
-						"maximum": 149.01402282714845,
-						"scale": 0.8922995328903198,
-						"offset": -88,
+						"minimum": -10.831502914428711,
+						"maximum": 9.329323768615723,
+						"scale": 0.0790620669722557,
+						"offset": -137,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1315,10 +1315,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -85.05325317382813,
-						"maximum": 74.42159271240235,
-						"scale": 0.6253915429115295,
-						"offset": -136,
+						"minimum": -4.780750274658203,
+						"maximum": 5.130560874938965,
+						"scale": 0.03886788710951805,
+						"offset": -123,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1351,10 +1351,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -120.93128204345703,
-						"maximum": 159.409423828125,
-						"scale": 1.0993752479553223,
-						"offset": -110,
+						"minimum": -11.065728187561036,
+						"maximum": 14.355538368225098,
+						"scale": 0.099691241979599,
+						"offset": -111,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1382,10 +1382,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -120.93128204345703,
-						"maximum": 159.409423828125,
-						"scale": 1.0993752479553223,
-						"offset": -110,
+						"minimum": -11.065728187561036,
+						"maximum": 14.355538368225098,
+						"scale": 0.099691241979599,
+						"offset": -111,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1418,10 +1418,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.25626128911972048,
-						"maximum": 65.09036254882813,
-						"scale": 0.25626128911972048,
-						"offset": -1,
+						"minimum": -0.26635828614234927,
+						"maximum": 6.525777816772461,
+						"scale": 0.026635827496647836,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1455,8 +1455,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9985332489013672,
+						"scale": 0.00391581654548645,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -1490,10 +1490,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -98.97553253173828,
-						"maximum": 64.91252899169922,
-						"scale": 0.6426982879638672,
-						"offset": -154,
+						"minimum": -9.159612655639649,
+						"maximum": 6.516234397888184,
+						"scale": 0.06147390976548195,
+						"offset": -149,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1526,10 +1526,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -141.71177673339845,
-						"maximum": 107.50548553466797,
-						"scale": 0.9773226380348206,
-						"offset": -145,
+						"minimum": -8.575583457946778,
+						"maximum": 8.24575424194336,
+						"scale": 0.06596603244543076,
+						"offset": -130,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1562,10 +1562,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.22422844171524049,
-						"maximum": 56.95402526855469,
-						"scale": 0.22422844171524049,
-						"offset": -1,
+						"minimum": -0.2771957218647003,
+						"maximum": 8.558418273925782,
+						"scale": 0.03464946523308754,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1598,10 +1598,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.22422844171524049,
-						"maximum": 186.29510498046876,
-						"scale": 0.7314483523368836,
-						"offset": 0,
+						"minimum": -0.28455865383148196,
+						"maximum": 8.558418273925782,
+						"scale": 0.03467833995819092,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1634,10 +1634,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.37387773394584658,
-						"maximum": 94.9649429321289,
-						"scale": 0.37387773394584658,
-						"offset": -1,
+						"minimum": -0.5527963638305664,
+						"maximum": 10.29051685333252,
+						"scale": 0.04252279922366142,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1670,10 +1670,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.3727933466434479,
-						"maximum": 94.68950653076172,
-						"scale": 0.3727933466434479,
-						"offset": -1,
+						"minimum": -0.27729710936546328,
+						"maximum": 6.793779373168945,
+						"scale": 0.027729712426662446,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1706,10 +1706,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.3727933466434479,
-						"maximum": 94.68950653076172,
-						"scale": 0.3727933466434479,
-						"offset": -1,
+						"minimum": -0.27729710936546328,
+						"maximum": 6.793779373168945,
+						"scale": 0.027729712426662446,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1742,10 +1742,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.3727933466434479,
-						"maximum": 94.68950653076172,
-						"scale": 0.3727933466434479,
-						"offset": -1,
+						"minimum": -0.27729710936546328,
+						"maximum": 6.793779373168945,
+						"scale": 0.027729712426662446,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1779,8 +1779,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9988877177238464,
+						"scale": 0.003917206544429064,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -1814,10 +1814,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -176.3678436279297,
-						"maximum": 94.55866241455078,
-						"scale": 1.0624568462371827,
-						"offset": -166,
+						"minimum": -11.655291557312012,
+						"maximum": 6.804953098297119,
+						"scale": 0.07239311933517456,
+						"offset": -161,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1850,10 +1850,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.24987103044986726,
-						"maximum": 20.989166259765626,
-						"scale": 0.08329034596681595,
-						"offset": -3,
+						"minimum": -0.28458908200263979,
+						"maximum": 3.9842469692230226,
+						"scale": 0.01674053445458412,
+						"offset": -17,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1887,8 +1887,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9830310344696045,
+						"scale": 0.003855023765936494,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -1922,10 +1922,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -96.21194458007813,
-						"maximum": 21.17583465576172,
-						"scale": 0.46034422516822817,
-						"offset": -209,
+						"minimum": -12.28273868560791,
+						"maximum": 4.0302734375,
+						"scale": 0.0639725998044014,
+						"offset": -192,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1958,10 +1958,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.37387773394584658,
-						"maximum": 94.9649429321289,
-						"scale": 0.37387773394584658,
-						"offset": -1,
+						"minimum": -0.5527963638305664,
+						"maximum": 10.29051685333252,
+						"scale": 0.04252279922366142,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -1994,10 +1994,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.3447980582714081,
-						"maximum": 43.6169548034668,
-						"scale": 0.17239902913570405,
-						"offset": -2,
+						"minimum": -0.2876227796077728,
+						"maximum": 5.824361324310303,
+						"scale": 0.023968564346432687,
+						"offset": -12,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2031,8 +2031,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9971292614936829,
+						"scale": 0.003910311032086611,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -2066,10 +2066,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -93.93683624267578,
-						"maximum": 43.729217529296878,
-						"scale": 0.5398668646812439,
-						"offset": -174,
+						"minimum": -7.2620086669921879,
+						"maximum": 5.871410846710205,
+						"scale": 0.051503606140613559,
+						"offset": -141,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2102,10 +2102,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2592310309410095,
-						"maximum": 32.792724609375,
-						"scale": 0.12961551547050477,
-						"offset": -2,
+						"minimum": -0.28532087802886965,
+						"maximum": 8.809282302856446,
+						"scale": 0.035665109753608707,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2139,8 +2139,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9998518228530884,
+						"scale": 0.003920987714082003,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -2174,10 +2174,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -60.39763259887695,
-						"maximum": 32.94416046142578,
-						"scale": 0.3660462498664856,
-						"offset": -165,
+						"minimum": -8.455535888671875,
+						"maximum": 8.793757438659668,
+						"scale": 0.06764429062604904,
+						"offset": -125,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2210,10 +2210,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.24987103044986726,
-						"maximum": 20.989166259765626,
-						"scale": 0.08329034596681595,
-						"offset": -3,
+						"minimum": -0.28458908200263979,
+						"maximum": 3.9842469692230226,
+						"scale": 0.01674053445458412,
+						"offset": -17,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2246,10 +2246,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.24987103044986726,
-						"maximum": 391.2185974121094,
-						"scale": 1.5351704359054566,
-						"offset": 0,
+						"minimum": -0.28688934445381167,
+						"maximum": 8.857708930969239,
+						"scale": 0.035861168056726459,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2282,10 +2282,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.5555879473686218,
-						"maximum": 141.1193389892578,
-						"scale": 0.5555879473686218,
-						"offset": -1,
+						"minimum": -0.5680047869682312,
+						"maximum": 7.055217266082764,
+						"scale": 0.029894987121224405,
+						"offset": -19,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2318,10 +2318,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.5555879473686218,
-						"maximum": 141.1193389892578,
-						"scale": 0.5555879473686218,
-						"offset": -1,
+						"minimum": -0.2787611186504364,
+						"maximum": 3.6703548431396486,
+						"scale": 0.015486729331314564,
+						"offset": -18,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2354,10 +2354,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.5555879473686218,
-						"maximum": 141.1193389892578,
-						"scale": 0.5555879473686218,
-						"offset": -1,
+						"minimum": -0.2787611186504364,
+						"maximum": 3.6703548431396486,
+						"scale": 0.015486729331314564,
+						"offset": -18,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2390,10 +2390,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.5555879473686218,
-						"maximum": 141.1193389892578,
-						"scale": 0.5555879473686218,
-						"offset": -1,
+						"minimum": -0.2787611186504364,
+						"maximum": 3.6703548431396486,
+						"scale": 0.015486729331314564,
+						"offset": -18,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2427,8 +2427,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9771664142608643,
+						"scale": 0.003832025220617652,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -2462,10 +2462,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -423.6697692871094,
-						"maximum": 141.962646484375,
-						"scale": 2.2181663513183595,
-						"offset": -191,
+						"minimum": -11.674898147583008,
+						"maximum": 3.750485420227051,
+						"scale": 0.06049169972538948,
+						"offset": -193,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2498,10 +2498,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 161.60411071777345,
-						"scale": 0.6337416172027588,
-						"offset": 0,
+						"minimum": -0.2751060128211975,
+						"maximum": 5.570896625518799,
+						"scale": 0.022925501689314843,
+						"offset": -12,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2535,8 +2535,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9962728023529053,
+						"scale": 0.00390695221722126,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -2570,10 +2570,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -202.59117126464845,
-						"maximum": 161.2169189453125,
-						"scale": 1.4266984462738038,
-						"offset": -142,
+						"minimum": -9.09424877166748,
+						"maximum": 5.5831780433654789,
+						"scale": 0.057558536529541019,
+						"offset": -158,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2606,10 +2606,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.4957273006439209,
-						"maximum": 125.91473388671875,
-						"scale": 0.4957273006439209,
-						"offset": -1,
+						"minimum": -0.5680047869682312,
+						"maximum": 7.055217266082764,
+						"scale": 0.029894987121224405,
+						"offset": -19,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2642,10 +2642,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.4229317307472229,
-						"maximum": 107.4246597290039,
-						"scale": 0.4229317307472229,
-						"offset": -1,
+						"minimum": -0.2873595952987671,
+						"maximum": 5.34930944442749,
+						"scale": 0.02210458368062973,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2679,8 +2679,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9954262375831604,
+						"scale": 0.0039036322850733997,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -2714,10 +2714,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -147.06881713867188,
-						"maximum": 108.0505599975586,
-						"scale": 1.000468134880066,
-						"offset": -147,
+						"minimum": -5.0094780921936039,
+						"maximum": 5.376025199890137,
+						"scale": 0.040727462619543079,
+						"offset": -123,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2750,10 +2750,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.3342878818511963,
-						"maximum": 84.90911865234375,
-						"scale": 0.3342878818511963,
-						"offset": -1,
+						"minimum": -0.2865518033504486,
+						"maximum": 5.802674293518066,
+						"scale": 0.023879317566752435,
+						"offset": -12,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2787,8 +2787,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9970642924308777,
+						"scale": 0.003910055849701166,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -2822,10 +2822,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -232.49378967285157,
-						"maximum": 84.54319763183594,
-						"scale": 1.2432823181152344,
-						"offset": -187,
+						"minimum": -7.4669671058654789,
+						"maximum": 5.8482537269592289,
+						"scale": 0.0522165521979332,
+						"offset": -143,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2858,10 +2858,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.4141243100166321,
-						"maximum": 105.18757629394531,
-						"scale": 0.4141243100166321,
-						"offset": -1,
+						"minimum": -0.29118868708610537,
+						"maximum": 7.1341233253479,
+						"scale": 0.029118869453668596,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2895,8 +2895,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9992176294326782,
+						"scale": 0.003918500617146492,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -2930,10 +2930,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -93.7282485961914,
-						"maximum": 105.44427490234375,
-						"scale": 0.781068742275238,
-						"offset": -120,
+						"minimum": -8.29913330078125,
+						"maximum": 7.148159027099609,
+						"scale": 0.06057761609554291,
+						"offset": -137,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -2966,10 +2966,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.4141243100166321,
-						"maximum": 105.18757629394531,
-						"scale": 0.4141243100166321,
-						"offset": -1,
+						"minimum": -0.29118868708610537,
+						"maximum": 7.1341233253479,
+						"scale": 0.029118869453668596,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3002,10 +3002,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.6084295511245728,
-						"maximum": 107.82786560058594,
-						"scale": 0.4252403676509857,
-						"offset": -1,
+						"minimum": -0.5587895512580872,
+						"maximum": 10.402082443237305,
+						"scale": 0.04298381134867668,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3038,10 +3038,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.4245191514492035,
-						"maximum": 107.82786560058594,
-						"scale": 0.4245191514492035,
-						"offset": -1,
+						"minimum": -0.2738734483718872,
+						"maximum": 7.485874176025391,
+						"scale": 0.0304303839802742,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3074,10 +3074,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.4245191514492035,
-						"maximum": 107.82786560058594,
-						"scale": 0.4245191514492035,
-						"offset": -1,
+						"minimum": -0.2738734483718872,
+						"maximum": 7.485874176025391,
+						"scale": 0.0304303839802742,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3110,10 +3110,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.4245191514492035,
-						"maximum": 107.82786560058594,
-						"scale": 0.4245191514492035,
-						"offset": -1,
+						"minimum": -0.2738734483718872,
+						"maximum": 7.485874176025391,
+						"scale": 0.0304303839802742,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3147,8 +3147,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9994391798973084,
+						"scale": 0.003919369541108608,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -3182,9 +3182,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -131.43812561035157,
-						"maximum": 107.96702575683594,
-						"scale": 0.9388437271118164,
+						"minimum": -9.119086265563965,
+						"maximum": 7.490678310394287,
+						"scale": 0.06513633579015732,
 						"offset": -140,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -3218,10 +3218,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.20439159870147706,
-						"maximum": 51.91546630859375,
-						"scale": 0.20439159870147706,
-						"offset": -1,
+						"minimum": -0.29079464077949526,
+						"maximum": 7.948387145996094,
+						"scale": 0.03231051564216614,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3255,8 +3255,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9996521472930908,
+						"scale": 0.003920204471796751,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -3290,10 +3290,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -93.5033187866211,
-						"maximum": 51.882938385009769,
-						"scale": 0.5701422095298767,
-						"offset": -164,
+						"minimum": -9.273918151855469,
+						"maximum": 7.9877543449401859,
+						"scale": 0.067692831158638,
+						"offset": -137,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3326,10 +3326,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.6084295511245728,
-						"maximum": 51.10808181762695,
-						"scale": 0.20280985534191132,
-						"offset": -3,
+						"minimum": -0.5587895512580872,
+						"maximum": 10.402082443237305,
+						"scale": 0.04298381134867668,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3362,10 +3362,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2293369472026825,
-						"maximum": 29.011123657226564,
-						"scale": 0.11466847360134125,
-						"offset": -2,
+						"minimum": -0.27728211879730227,
+						"maximum": 6.793411731719971,
+						"scale": 0.027728211134672166,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3399,8 +3399,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9988872408866882,
+						"scale": 0.0039172046817839149,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -3434,10 +3434,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -108.31975555419922,
-						"maximum": 29.100830078125,
-						"scale": 0.5389042496681213,
-						"offset": -201,
+						"minimum": -6.957523822784424,
+						"maximum": 6.795721054077148,
+						"scale": 0.05393429473042488,
+						"offset": -129,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3470,10 +3470,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.28341829776763918,
-						"maximum": 17.78449821472168,
-						"scale": 0.07085457444190979,
-						"offset": -4,
+						"minimum": -0.25774258375167849,
+						"maximum": 10.696317672729493,
+						"scale": 0.04295709729194641,
+						"offset": -6,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3507,8 +3507,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999768733978272,
+						"scale": 0.003921478055417538,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -3542,10 +3542,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -43.51976013183594,
-						"maximum": 17.79261016845703,
-						"scale": 0.24044066667556764,
-						"offset": -181,
+						"minimum": -12.150869369506836,
+						"maximum": 10.632011413574219,
+						"scale": 0.08934462815523148,
+						"offset": -136,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3578,10 +3578,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 7265.85546875,
-						"scale": 28.493549346923829,
-						"offset": 0,
+						"minimum": -0.5222946405410767,
+						"maximum": 147.64056396484376,
+						"scale": 0.5810308456420898,
+						"offset": -1,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3615,8 +3615,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": -0.0,
-						"maximum": 7085.89404296875,
-						"scale": 27.78782081604004,
+						"maximum": 147.64056396484376,
+						"scale": 0.5789826512336731,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -3651,8 +3651,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": -0.0,
-						"maximum": 7085.89404296875,
-						"scale": 27.78782081604004,
+						"maximum": 147.64056396484376,
+						"scale": 0.5789826512336731,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -3687,8 +3687,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": -0.0,
-						"maximum": 7085.89404296875,
-						"scale": 27.78782081604004,
+						"maximum": 147.64056396484376,
+						"scale": 0.5789826512336731,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -3758,10 +3758,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -11932.072265625,
-						"maximum": 7084.66796875,
-						"scale": 74.57544708251953,
-						"offset": -160,
+						"minimum": -220.16497802734376,
+						"maximum": 146.77664184570313,
+						"scale": 1.4389867782592774,
+						"offset": -153,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3794,10 +3794,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 2886.0703125,
-						"scale": 11.317922592163086,
-						"offset": 0,
+						"minimum": -0.2645780146121979,
+						"maximum": 67.20281219482422,
+						"scale": 0.2645780146121979,
+						"offset": -1,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3866,10 +3866,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -9842.814453125,
-						"maximum": 2897.884521484375,
-						"scale": 49.963523864746097,
-						"offset": -197,
+						"minimum": -152.97836303710938,
+						"maximum": 67.41419219970703,
+						"scale": 0.8642845153808594,
+						"offset": -177,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3902,10 +3902,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 7265.85546875,
-						"scale": 28.493549346923829,
-						"offset": 0,
+						"minimum": -0.5222946405410767,
+						"maximum": 132.662841796875,
+						"scale": 0.5222946405410767,
+						"offset": -1,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3938,10 +3938,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 249.06813049316407,
-						"scale": 0.9767377972602844,
-						"offset": 0,
+						"minimum": -0.2923468053340912,
+						"maximum": 7.9908127784729,
+						"scale": 0.03248297795653343,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -3975,8 +3975,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9996671676635742,
+						"scale": 0.003920263610780239,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -4010,10 +4010,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -1652.8673095703126,
-						"maximum": 245.69650268554688,
-						"scale": 7.445348262786865,
-						"offset": -222,
+						"minimum": -32.19044494628906,
+						"maximum": 8.047611236572266,
+						"scale": 0.15779630839824677,
+						"offset": -204,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4046,10 +4046,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 2097.045166015625,
-						"scale": 8.223706245422364,
-						"offset": 0,
+						"minimum": -0.28121906518936159,
+						"maximum": 71.42964172363281,
+						"scale": 0.28121906518936159,
+						"offset": -1,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4118,10 +4118,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -2806.429931640625,
-						"maximum": 2095.21142578125,
-						"scale": 19.222122192382814,
-						"offset": -146,
+						"minimum": -76.50607299804688,
+						"maximum": 71.28975677490235,
+						"scale": 0.5795915126800537,
+						"offset": -132,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4154,10 +4154,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2794361412525177,
-						"maximum": 23.472637176513673,
-						"scale": 0.09314538538455963,
-						"offset": -3,
+						"minimum": -0.26661452651023867,
+						"maximum": 9.445772171020508,
+						"scale": 0.038087788969278339,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4191,8 +4191,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.999920129776001,
+						"scale": 0.003921255469322205,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -4226,10 +4226,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -45.44490432739258,
-						"maximum": 23.533967971801759,
-						"scale": 0.2705053687095642,
-						"offset": -168,
+						"minimum": -7.617057800292969,
+						"maximum": 9.421097755432129,
+						"scale": 0.0668162927031517,
+						"offset": -114,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4262,10 +4262,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2794361412525177,
-						"maximum": 56.95402526855469,
-						"scale": 0.2244449406862259,
-						"offset": -1,
+						"minimum": -0.2771957218647003,
+						"maximum": 9.445772171020508,
+						"scale": 0.0381292849779129,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4298,10 +4298,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.29031261801719668,
-						"maximum": 24.386259078979493,
-						"scale": 0.09677086770534516,
-						"offset": -3,
+						"minimum": -0.28605973720550539,
+						"maximum": 10.134687423706055,
+						"scale": 0.04086567461490631,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4334,10 +4334,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.29031261801719668,
-						"maximum": 24.386259078979493,
-						"scale": 0.09677086770534516,
-						"offset": -3,
+						"minimum": -0.28605973720550539,
+						"maximum": 10.134687423706055,
+						"scale": 0.04086567461490631,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4370,10 +4370,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.29031261801719668,
-						"maximum": 24.386259078979493,
-						"scale": 0.09677086770534516,
-						"offset": -3,
+						"minimum": -0.28605973720550539,
+						"maximum": 10.134687423706055,
+						"scale": 0.04086567461490631,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4406,10 +4406,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.29031261801719668,
-						"maximum": 24.386259078979493,
-						"scale": 0.09677086770534516,
-						"offset": -3,
+						"minimum": -0.28605973720550539,
+						"maximum": 10.134687423706055,
+						"scale": 0.04086567461490631,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4443,8 +4443,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999606609344482,
+						"scale": 0.0039214142598211769,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -4478,10 +4478,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -43.88703918457031,
-						"maximum": 24.35195541381836,
-						"scale": 0.26760390400886538,
-						"offset": -164,
+						"minimum": -15.217638969421387,
+						"maximum": 10.145092964172364,
+						"scale": 0.09946169704198837,
+						"offset": -153,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4514,10 +4514,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2811945080757141,
-						"maximum": 23.62034034729004,
-						"scale": 0.09373150765895844,
-						"offset": -3,
+						"minimum": -0.3009331226348877,
+						"maximum": 12.488724708557129,
+						"scale": 0.05015552043914795,
+						"offset": -6,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4551,8 +4551,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999963045120239,
+						"scale": 0.003921553958207369,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -4586,10 +4586,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -25.04659080505371,
-						"maximum": 23.708223342895509,
-						"scale": 0.19119535386562348,
-						"offset": -131,
+						"minimum": -11.097675323486329,
+						"maximum": 12.484885215759278,
+						"scale": 0.0924806296825409,
+						"offset": -120,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4622,10 +4622,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.8526932001113892,
-						"maximum": 23.03386116027832,
-						"scale": 0.09367275983095169,
-						"offset": -9,
+						"minimum": -0.8120608925819397,
+						"maximum": 15.116826057434082,
+						"scale": 0.062466222792863849,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4658,10 +4658,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.274108350276947,
-						"maximum": 4.7185797691345219,
-						"scale": 0.019579168409109117,
-						"offset": -14,
+						"minimum": -0.27329662442207339,
+						"maximum": 2.8944597244262697,
+						"scale": 0.012422573752701283,
+						"offset": -22,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4695,8 +4695,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9914633631706238,
-						"scale": 0.0038880915381014349,
+						"maximum": 0.9538683295249939,
+						"scale": 0.003740660147741437,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -4730,10 +4730,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -10.209009170532227,
-						"maximum": 4.752469539642334,
-						"scale": 0.0586724653840065,
-						"offset": -174,
+						"minimum": -4.075143337249756,
+						"maximum": 3.0424015522003176,
+						"scale": 0.027911940589547159,
+						"offset": -146,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4766,10 +4766,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.27421262860298159,
-						"maximum": 23.03386116027832,
-						"scale": 0.09140421450138092,
-						"offset": -3,
+						"minimum": -0.28936633467674258,
+						"maximum": 5.859668254852295,
+						"scale": 0.024113861843943597,
+						"offset": -12,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4803,8 +4803,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9972320199012756,
+						"scale": 0.003910713829100132,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -4838,10 +4838,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -22.801380157470704,
-						"maximum": 22.980918884277345,
-						"scale": 0.17953842878341676,
-						"offset": -127,
+						"minimum": -9.744324684143067,
+						"maximum": 5.883366107940674,
+						"scale": 0.06128506362438202,
+						"offset": -159,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4874,10 +4874,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2808472216129303,
-						"maximum": 17.6231632232666,
-						"scale": 0.07021180540323258,
-						"offset": -4,
+						"minimum": -0.2724008858203888,
+						"maximum": 7.445624351501465,
+						"scale": 0.030266765505075456,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4911,8 +4911,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.999415397644043,
+						"scale": 0.003919275943189859,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -4946,10 +4946,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -16.96654510498047,
-						"maximum": 17.645206451416017,
-						"scale": 0.13573235273361207,
-						"offset": -125,
+						"minimum": -17.46202278137207,
+						"maximum": 7.414042949676514,
+						"scale": 0.09755320101976395,
+						"offset": -179,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -4982,10 +4982,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.545060932636261,
-						"maximum": 6.770230770111084,
-						"scale": 0.02868741750717163,
-						"offset": -19,
+						"minimum": -0.5723682641983032,
+						"maximum": 7.536181926727295,
+						"scale": 0.031798236072063449,
+						"offset": -18,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5018,9 +5018,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.26858454942703249,
-						"maximum": 6.580321311950684,
-						"scale": 0.026858454570174218,
+						"minimum": -0.2821255326271057,
+						"maximum": 6.912075042724609,
+						"scale": 0.02821255289018154,
 						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5055,8 +5055,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9986134767532349,
-						"scale": 0.00391613133251667,
+						"maximum": 0.9990156888961792,
+						"scale": 0.0039177085272967819,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5090,10 +5090,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -8.137578010559082,
-						"maximum": 6.579318523406982,
-						"scale": 0.05771332234144211,
-						"offset": -141,
+						"minimum": -6.767591953277588,
+						"maximum": 6.928724765777588,
+						"scale": 0.053711045533418658,
+						"offset": -126,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5126,10 +5126,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2693604826927185,
-						"maximum": 6.599332332611084,
-						"scale": 0.02693605050444603,
-						"offset": -10,
+						"minimum": -0.2769142687320709,
+						"maximum": 7.5689897537231449,
+						"scale": 0.030768251046538354,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5163,8 +5163,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9986403584480286,
-						"scale": 0.003916236571967602,
+						"maximum": 0.9994852542877197,
+						"scale": 0.003919550217688084,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5198,10 +5198,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -6.775815963745117,
-						"maximum": 6.61823844909668,
-						"scale": 0.052525702863931659,
-						"offset": -129,
+						"minimum": -8.007471084594727,
+						"maximum": 7.579590797424316,
+						"scale": 0.0611257329583168,
+						"offset": -131,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5234,10 +5234,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.8526932001113892,
-						"maximum": 14.678504943847657,
-						"scale": 0.06090665981173515,
-						"offset": -14,
+						"minimum": -0.8120608925819397,
+						"maximum": 15.116826057434082,
+						"scale": 0.062466222792863849,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5270,9 +5270,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2690761387348175,
-						"maximum": 5.968597888946533,
-						"scale": 0.024461466819047929,
+						"minimum": -0.27614161372184756,
+						"maximum": 6.125323295593262,
+						"scale": 0.02510378323495388,
 						"offset": -11,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5307,8 +5307,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9974633455276489,
-						"scale": 0.0039116209372878078,
+						"maximum": 0.9978415966033936,
+						"scale": 0.003913104068487883,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5342,10 +5342,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -6.427839756011963,
-						"maximum": 5.989577770233154,
-						"scale": 0.04869575425982475,
-						"offset": -132,
+						"minimum": -7.237184047698975,
+						"maximum": 6.135873317718506,
+						"scale": 0.05244336277246475,
+						"offset": -138,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5378,9 +5378,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2690938115119934,
-						"maximum": 13.454689979553223,
-						"scale": 0.05381875857710838,
+						"minimum": -0.2758081257343292,
+						"maximum": 13.7904052734375,
+						"scale": 0.055161621421575549,
 						"offset": -5,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5415,8 +5415,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9999985694885254,
-						"scale": 0.003921562805771828,
+						"maximum": 0.999998927116394,
+						"scale": 0.00392156420275569,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5450,9 +5450,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -14.703445434570313,
-						"maximum": 13.487370491027832,
-						"scale": 0.11055222153663635,
+						"minimum": -15.062374114990235,
+						"maximum": 13.81661319732666,
+						"scale": 0.11325093358755112,
 						"offset": -133,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5486,8 +5486,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 85.63929748535156,
-						"scale": 0.3358403742313385,
+						"maximum": 85.52813720703125,
+						"scale": 0.3354044556617737,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5519,9 +5519,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -1.9409164190292359,
-						"maximum": 163.0369873046875,
-						"scale": 0.646972119808197,
+						"minimum": -1.9405521154403687,
+						"maximum": 163.00637817382813,
+						"scale": 0.6468507051467896,
 						"offset": -3,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5553,10 +5553,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -64.39374542236328,
-						"maximum": 1.5451741218566895,
-						"scale": 0.25858399271965029,
-						"offset": -249,
+						"minimum": -23.474496841430665,
+						"maximum": 1.6767498254776,
+						"scale": 0.0986323431134224,
+						"offset": -238,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5587,9 +5587,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.9704582095146179,
-						"maximum": 81.51849365234375,
-						"scale": 0.3234860599040985,
+						"minimum": -0.9702760577201843,
+						"maximum": 81.50318908691406,
+						"scale": 0.3234253525733948,
 						"offset": -3,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5621,10 +5621,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -44.062522888183597,
-						"maximum": 65.02430725097656,
-						"scale": 0.4277914762496948,
-						"offset": -103,
+						"minimum": -9.074295997619629,
+						"maximum": 14.298890113830567,
+						"scale": 0.0916595533490181,
+						"offset": -99,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5745,9 +5745,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.9704582095146179,
-						"maximum": 81.51849365234375,
-						"scale": 0.3234860599040985,
+						"minimum": -0.9702760577201843,
+						"maximum": 81.50318908691406,
+						"scale": 0.3234253525733948,
 						"offset": -3,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5779,10 +5779,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -19.053142547607423,
-						"maximum": 675.025634765625,
-						"scale": 2.7218775749206545,
-						"offset": -7,
+						"minimum": -21.205883026123048,
+						"maximum": 654.731689453125,
+						"scale": 2.650735378265381,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5813,10 +5813,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -13.48289680480957,
-						"maximum": 20.224346160888673,
-						"scale": 0.13218526542186738,
-						"offset": -102,
+						"minimum": -7.2755303382873539,
+						"maximum": 13.338472366333008,
+						"scale": 0.08083922415971756,
+						"offset": -90,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5847,10 +5847,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -7.547920227050781,
-						"maximum": 12.294550895690918,
-						"scale": 0.07781361043453217,
-						"offset": -97,
+						"minimum": -7.456486225128174,
+						"maximum": 12.34980583190918,
+						"scale": 0.07767173647880554,
+						"offset": -96,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5881,10 +5881,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -64.39374542236328,
-						"maximum": 1.2878748178482056,
-						"scale": 0.25757497549057009,
-						"offset": -250,
+						"minimum": -14.964557647705079,
+						"maximum": 0.1781494915485382,
+						"scale": 0.05938316509127617,
+						"offset": -252,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5915,10 +5915,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -54.74331283569336,
-						"maximum": 1.5451741218566895,
-						"scale": 0.22073915600776673,
-						"offset": -248,
+						"minimum": -23.474496841430665,
+						"maximum": 1.6767498254776,
+						"scale": 0.0986323431134224,
+						"offset": -238,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -5949,9 +5949,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -9.938644409179688,
+						"minimum": -9.949386596679688,
 						"maximum": 0.0,
-						"scale": 0.038975074887275699,
+						"scale": 0.039017204195261,
 						"offset": -255,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -5983,10 +5983,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -44.062522888183597,
-						"maximum": 65.02430725097656,
-						"scale": 0.4277914762496948,
-						"offset": -103,
+						"minimum": -9.074295997619629,
+						"maximum": 14.298890113830567,
+						"scale": 0.0916595533490181,
+						"offset": -99,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6018,8 +6018,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.8241268992424011,
-						"scale": 0.0032318702433258297,
+						"maximum": 0.8431499600410461,
+						"scale": 0.0033064703457057478,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -6052,8 +6052,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 9.989481925964356,
-						"scale": 0.039174437522888187,
+						"maximum": 9.987963676452637,
+						"scale": 0.03916848450899124,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -6086,8 +6086,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 9.989481925964356,
-						"scale": 0.039174437522888187,
+						"maximum": 9.987963676452637,
+						"scale": 0.03916848450899124,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -6120,8 +6120,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 18.291854858398439,
-						"scale": 0.0717327669262886,
+						"maximum": 18.357379913330079,
+						"scale": 0.07198972254991532,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -6153,9 +6153,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -5.639612674713135,
-						"maximum": 78.95458221435547,
-						"scale": 0.33174192905426028,
+						"minimum": -5.639509677886963,
+						"maximum": 78.95313262939453,
+						"scale": 0.33173584938049319,
 						"offset": -17,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -6188,10 +6188,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2561989426612854,
-						"maximum": 65.07453155517578,
-						"scale": 0.2561989426612854,
-						"offset": -1,
+						"minimum": -0.28586360812187197,
+						"maximum": 5.788737773895264,
+						"scale": 0.023821966722607614,
+						"offset": -12,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6225,8 +6225,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9970217347145081,
+						"scale": 0.00390988914296031,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -6260,10 +6260,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -158.482666015625,
-						"maximum": 64.79401397705078,
-						"scale": 0.8755947947502136,
-						"offset": -181,
+						"minimum": -9.15754222869873,
+						"maximum": 5.811517238616943,
+						"scale": 0.058702196925878528,
+						"offset": -156,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6296,10 +6296,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 145.55006408691407,
-						"scale": 0.5707845687866211,
-						"offset": 0,
+						"minimum": -0.3108418583869934,
+						"maximum": 39.321495056152347,
+						"scale": 0.1554209291934967,
+						"offset": -2,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6368,10 +6368,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -441.9105224609375,
-						"maximum": 145.00189208984376,
-						"scale": 2.301617383956909,
-						"offset": -192,
+						"minimum": -27.13842010498047,
+						"maximum": 39.402896881103519,
+						"scale": 0.2609463632106781,
+						"offset": -104,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6404,10 +6404,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -44.062522888183597,
-						"maximum": 65.02430725097656,
-						"scale": 0.4277914762496948,
-						"offset": -103,
+						"minimum": -9.074295997619629,
+						"maximum": 14.298890113830567,
+						"scale": 0.0916595533490181,
+						"offset": -99,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6435,10 +6435,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -44.062522888183597,
-						"maximum": 65.02430725097656,
-						"scale": 0.4277914762496948,
-						"offset": -103,
+						"minimum": -9.074295997619629,
+						"maximum": 14.298890113830567,
+						"scale": 0.0916595533490181,
+						"offset": -99,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6471,10 +6471,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.28213629126548769,
-						"maximum": 35.69023895263672,
-						"scale": 0.14106814563274384,
-						"offset": -2,
+						"minimum": -0.2804369330406189,
+						"maximum": 9.935480117797852,
+						"scale": 0.040062420070171359,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6508,8 +6508,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999517202377319,
+						"scale": 0.0039213793352246288,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -6543,10 +6543,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -73.96636199951172,
-						"maximum": 35.69306945800781,
-						"scale": 0.4300369620323181,
-						"offset": -172,
+						"minimum": -17.263385772705079,
+						"maximum": 9.910462379455567,
+						"scale": 0.10656411200761795,
+						"offset": -162,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6579,10 +6579,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.3237062394618988,
-						"maximum": 40.94883728027344,
-						"scale": 0.1618531197309494,
-						"offset": -2,
+						"minimum": -0.3072412312030792,
+						"maximum": 19.279388427734376,
+						"scale": 0.0768103078007698,
+						"offset": -4,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6651,10 +6651,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -46.05011749267578,
-						"maximum": 40.93343734741211,
-						"scale": 0.3411119878292084,
-						"offset": -135,
+						"minimum": -30.900117874145509,
+						"maximum": 19.28797149658203,
+						"scale": 0.19681604206562043,
+						"offset": -157,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6687,10 +6687,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -13.48289680480957,
-						"maximum": 20.224346160888673,
-						"scale": 0.13218526542186738,
-						"offset": -102,
+						"minimum": -7.2755303382873539,
+						"maximum": 13.338472366333008,
+						"scale": 0.08083922415971756,
+						"offset": -90,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6718,10 +6718,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -13.48289680480957,
-						"maximum": 20.224346160888673,
-						"scale": 0.13218526542186738,
-						"offset": -102,
+						"minimum": -7.2755303382873539,
+						"maximum": 13.338472366333008,
+						"scale": 0.08083922415971756,
+						"offset": -90,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6754,10 +6754,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2613566219806671,
-						"maximum": 9.259491920471192,
-						"scale": 0.03733666241168976,
-						"offset": -7,
+						"minimum": -0.2936665415763855,
+						"maximum": 9.066954612731934,
+						"scale": 0.03670831769704819,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6791,8 +6791,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9999032020568848,
-						"scale": 0.00392118887975812,
+						"maximum": 0.9998863935470581,
+						"scale": 0.003921123221516609,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -6826,10 +6826,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -10.711060523986817,
-						"maximum": 9.225584983825684,
-						"scale": 0.07818292081356049,
-						"offset": -137,
+						"minimum": -10.878742218017579,
+						"maximum": 9.078661918640137,
+						"scale": 0.07826433330774307,
+						"offset": -139,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6862,9 +6862,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.29734006524086,
-						"maximum": 24.976566314697267,
-						"scale": 0.09911336004734039,
+						"minimum": -0.291260302066803,
+						"maximum": 24.465864181518556,
+						"scale": 0.09708676487207413,
 						"offset": -3,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -6934,10 +6934,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -14.863446235656739,
-						"maximum": 25.033172607421876,
-						"scale": 0.15645731985569,
-						"offset": -95,
+						"minimum": -14.753198623657227,
+						"maximum": 24.434986114501954,
+						"scale": 0.15367916226387025,
+						"offset": -96,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -6970,10 +6970,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -7.547920227050781,
-						"maximum": 12.294550895690918,
-						"scale": 0.07781361043453217,
-						"offset": -97,
+						"minimum": -7.456486225128174,
+						"maximum": 12.34980583190918,
+						"scale": 0.07767173647880554,
+						"offset": -96,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7001,10 +7001,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -7.547920227050781,
-						"maximum": 12.294550895690918,
-						"scale": 0.07781361043453217,
-						"offset": -97,
+						"minimum": -7.456486225128174,
+						"maximum": 12.34980583190918,
+						"scale": 0.07767173647880554,
+						"offset": -96,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7037,10 +7037,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 164.56173706054688,
-						"scale": 0.6453401446342468,
-						"offset": 0,
+						"minimum": -0.2690505385398865,
+						"maximum": 5.968029975891113,
+						"scale": 0.02445913851261139,
+						"offset": -11,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7074,8 +7074,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9974617958068848,
+						"scale": 0.0039116148836910728,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -7109,10 +7109,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -52.88435745239258,
-						"maximum": 164.62388610839845,
-						"scale": 0.8529735207557678,
-						"offset": -62,
+						"minimum": -15.16563606262207,
+						"maximum": 5.966807842254639,
+						"scale": 0.08287233114242554,
+						"offset": -183,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7145,10 +7145,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.42238369584083559,
-						"maximum": 107.28545379638672,
-						"scale": 0.42238369584083559,
-						"offset": -1,
+						"minimum": -0.2696135938167572,
+						"maximum": 11.188963890075684,
+						"scale": 0.044935598969459537,
+						"offset": -6,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7182,8 +7182,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999860525131226,
+						"scale": 0.00392151391133666,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -7217,10 +7217,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -163.9603271484375,
-						"maximum": 107.53242492675781,
-						"scale": 1.0646774768829346,
-						"offset": -154,
+						"minimum": -8.502216339111329,
+						"maximum": 11.207468032836914,
+						"scale": 0.07729288190603256,
+						"offset": -110,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7253,10 +7253,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 144.89112854003907,
-						"scale": 0.5682005286216736,
-						"offset": 0,
+						"minimum": -0.25544431805610659,
+						"maximum": 12.772215843200684,
+						"scale": 0.051088862121105197,
+						"offset": -5,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7290,8 +7290,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999971389770508,
+						"scale": 0.00392155721783638,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -7325,10 +7325,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -196.84713745117188,
-						"maximum": 144.6223907470703,
-						"scale": 1.339096188545227,
-						"offset": -147,
+						"minimum": -19.074087142944337,
+						"maximum": 12.716058731079102,
+						"scale": 0.12466724216938019,
+						"offset": -153,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7361,10 +7361,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 144.5835418701172,
-						"scale": 0.566994309425354,
-						"offset": 0,
+						"minimum": -0.23891112208366395,
+						"maximum": 20.068532943725587,
+						"scale": 0.07963703572750092,
+						"offset": -3,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7433,10 +7433,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -90.06719970703125,
-						"maximum": 144.2913360595703,
-						"scale": 0.9190530776977539,
-						"offset": -98,
+						"minimum": -10.009126663208008,
+						"maximum": 20.018253326416017,
+						"scale": 0.11775442957878113,
+						"offset": -85,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7469,10 +7469,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -64.39374542236328,
-						"maximum": 1.2878748178482056,
-						"scale": 0.25757497549057009,
-						"offset": -250,
+						"minimum": -14.964557647705079,
+						"maximum": 0.1781494915485382,
+						"scale": 0.05938316509127617,
+						"offset": -252,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7500,10 +7500,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -64.39374542236328,
-						"maximum": 1.2878748178482056,
-						"scale": 0.25757497549057009,
-						"offset": -250,
+						"minimum": -14.964557647705079,
+						"maximum": 0.1781494915485382,
+						"scale": 0.05938316509127617,
+						"offset": -252,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7536,10 +7536,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.31021323800086977,
-						"maximum": 78.7941665649414,
-						"scale": 0.31021323800086977,
-						"offset": -1,
+						"minimum": -0.27422258257865908,
+						"maximum": 8.466622352600098,
+						"scale": 0.03427782282233238,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7573,8 +7573,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9997891783714294,
+						"scale": 0.003920741844922304,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -7608,10 +7608,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -57.843536376953128,
-						"maximum": 78.73148345947266,
-						"scale": 0.5355883240699768,
-						"offset": -108,
+						"minimum": -14.015043258666993,
+						"maximum": 8.461912155151368,
+						"scale": 0.08814492076635361,
+						"offset": -159,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7644,10 +7644,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2897091209888458,
-						"maximum": 36.64820098876953,
-						"scale": 0.1448545604944229,
-						"offset": -2,
+						"minimum": -0.2893330156803131,
+						"maximum": 7.088658809661865,
+						"scale": 0.02893330156803131,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7681,8 +7681,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9991798996925354,
+						"scale": 0.003918352536857128,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -7716,10 +7716,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -41.846073150634769,
-						"maximum": 36.61531066894531,
-						"scale": 0.30769169330596926,
-						"offset": -136,
+						"minimum": -6.612561225891113,
+						"maximum": 7.096406936645508,
+						"scale": 0.05376065894961357,
+						"offset": -123,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7752,10 +7752,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.22313910722732545,
-						"maximum": 56.67733383178711,
-						"scale": 0.22313910722732545,
-						"offset": -1,
+						"minimum": -0.27650389075279238,
+						"maximum": 13.8251953125,
+						"scale": 0.05530077964067459,
+						"offset": -5,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7789,8 +7789,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999990463256836,
+						"scale": 0.003921564668416977,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -7824,10 +7824,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -50.98406219482422,
-						"maximum": 56.46168518066406,
-						"scale": 0.42135587334632876,
-						"offset": -121,
+						"minimum": -15.998361587524414,
+						"maximum": 13.779610633850098,
+						"scale": 0.11677636206150055,
+						"offset": -137,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7860,10 +7860,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.20421254634857179,
-						"maximum": 51.86998748779297,
-						"scale": 0.20421254634857179,
-						"offset": -1,
+						"minimum": -0.26372841000556948,
+						"maximum": 10.94472885131836,
+						"scale": 0.04395473375916481,
+						"offset": -6,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7897,8 +7897,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999821186065674,
+						"scale": 0.003921498544514179,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -7932,10 +7932,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -39.3340950012207,
-						"maximum": 51.8494873046875,
-						"scale": 0.357582688331604,
-						"offset": -110,
+						"minimum": -11.875578880310059,
+						"maximum": 10.893387794494629,
+						"scale": 0.0892900675535202,
+						"offset": -133,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7968,10 +7968,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -54.74331283569336,
-						"maximum": 1.5451741218566895,
-						"scale": 0.22073915600776673,
-						"offset": -248,
+						"minimum": -23.474496841430665,
+						"maximum": 1.6767498254776,
+						"scale": 0.0986323431134224,
+						"offset": -238,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -7999,10 +7999,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -54.74331283569336,
-						"maximum": 1.5451741218566895,
-						"scale": 0.22073915600776673,
-						"offset": -248,
+						"minimum": -23.474496841430665,
+						"maximum": 1.6767498254776,
+						"scale": 0.0986323431134224,
+						"offset": -238,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8035,10 +8035,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.30887913703918459,
-						"maximum": 15.44395637512207,
-						"scale": 0.061775825917720798,
-						"offset": -5,
+						"minimum": -0.27590858936309817,
+						"maximum": 9.775047302246094,
+						"scale": 0.03941551223397255,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8072,8 +8072,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9999997615814209,
-						"scale": 0.003921567462384701,
+						"maximum": 0.9999430179595947,
+						"scale": 0.003921345341950655,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8107,10 +8107,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -16.376338958740236,
-						"maximum": 15.501267433166504,
-						"scale": 0.12501022219657899,
-						"offset": -131,
+						"minimum": -11.746203422546387,
+						"maximum": 9.802587509155274,
+						"scale": 0.08450505882501602,
+						"offset": -139,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8143,9 +8143,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.27799364924430849,
-						"maximum": 4.4478983879089359,
-						"scale": 0.01853290945291519,
+						"minimum": -0.2800637185573578,
+						"maximum": 4.481019496917725,
+						"scale": 0.018670914694666864,
 						"offset": -15,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8180,8 +8180,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9889801740646362,
-						"scale": 0.0038783536292612554,
+						"maximum": 0.9893438816070557,
+						"scale": 0.003879779949784279,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8215,10 +8215,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -4.9875168800354,
-						"maximum": 4.503653049468994,
-						"scale": 0.03722027316689491,
-						"offset": -134,
+						"minimum": -4.143238067626953,
+						"maximum": 4.516808986663818,
+						"scale": 0.033960968255996707,
+						"offset": -122,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8251,10 +8251,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2910570502281189,
-						"maximum": 6.456174373626709,
-						"scale": 0.02645973116159439,
-						"offset": -11,
+						"minimum": -0.28348875045776369,
+						"maximum": 6.945474624633789,
+						"scale": 0.028348874300718309,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8288,8 +8288,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9984666109085083,
-						"scale": 0.0039155553095042709,
+						"maximum": 0.9990490078926086,
+						"scale": 0.003917839378118515,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8323,10 +8323,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -6.754271984100342,
-						"maximum": 6.494492530822754,
-						"scale": 0.0519559383392334,
-						"offset": -130,
+						"minimum": -6.992912769317627,
+						"maximum": 6.938281059265137,
+						"scale": 0.05463213101029396,
+						"offset": -128,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8359,10 +8359,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.27641934156417849,
-						"maximum": 3.869870901107788,
-						"scale": 0.01625996269285679,
-						"offset": -17,
+						"minimum": -0.2848179340362549,
+						"maximum": 3.7501027584075929,
+						"scale": 0.01582321897149086,
+						"offset": -18,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8396,8 +8396,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 0.9809757471084595,
-						"scale": 0.003846963634714484,
+						"maximum": 0.9789051413536072,
+						"scale": 0.0038388436660170557,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8431,10 +8431,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -3.7836766242980959,
-						"maximum": 3.935023546218872,
-						"scale": 0.030269412323832513,
-						"offset": -125,
+						"minimum": -3.5674595832824709,
+						"maximum": 3.828493356704712,
+						"scale": 0.02900373749434948,
+						"offset": -123,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8467,9 +8467,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -9.938644409179688,
+						"minimum": -9.949386596679688,
 						"maximum": 0.0,
-						"scale": 0.038975074887275699,
+						"scale": 0.039017204195261,
 						"offset": -255,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8498,9 +8498,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -9.938644409179688,
+						"minimum": -9.949386596679688,
 						"maximum": 0.0,
-						"scale": 0.038975074887275699,
+						"scale": 0.039017204195261,
 						"offset": -255,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8534,8 +8534,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 9.989481925964356,
-						"scale": 0.039174437522888187,
+						"maximum": 9.987963676452637,
+						"scale": 0.03916848450899124,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8568,10 +8568,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -44.062522888183597,
-						"maximum": 65.02430725097656,
-						"scale": 0.4277914762496948,
-						"offset": -103,
+						"minimum": -9.074295997619629,
+						"maximum": 14.298890113830567,
+						"scale": 0.0916595533490181,
+						"offset": -99,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8666,10 +8666,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -44.062522888183597,
-						"maximum": 65.02430725097656,
-						"scale": 0.4277914762496948,
-						"offset": -103,
+						"minimum": -9.074295997619629,
+						"maximum": 14.298890113830567,
+						"scale": 0.0916595533490181,
+						"offset": -99,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8732,8 +8732,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 9.989481925964356,
-						"scale": 0.039174437522888187,
+						"maximum": 9.987963676452637,
+						"scale": 0.03916848450899124,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8763,8 +8763,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 9.989481925964356,
-						"scale": 0.039174437522888187,
+						"maximum": 9.987963676452637,
+						"scale": 0.03916848450899124,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8798,10 +8798,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 788.23193359375,
-						"scale": 3.0911056995391847,
-						"offset": 0,
+						"minimum": -0.3062452971935272,
+						"maximum": 19.21689224243164,
+						"scale": 0.0765613242983818,
+						"offset": -4,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8870,9 +8870,9 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -889.1546020507813,
-						"maximum": 790.359619140625,
-						"scale": 6.586330413818359,
+						"minimum": -21.668624877929689,
+						"maximum": 19.26099967956543,
+						"scale": 0.16050833463668824,
 						"offset": -135,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -8906,10 +8906,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -1.0637269020080567,
-						"maximum": 524.135986328125,
-						"scale": 2.0596067905426027,
-						"offset": -1,
+						"minimum": -0.5619293451309204,
+						"maximum": 10.460531234741211,
+						"scale": 0.04322533681988716,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8942,10 +8942,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 524.135986328125,
-						"scale": 2.0554354190826418,
-						"offset": 0,
+						"minimum": -0.26224076747894289,
+						"maximum": 9.290815353393555,
+						"scale": 0.03746296465396881,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -8978,10 +8978,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 524.135986328125,
-						"scale": 2.0554354190826418,
-						"offset": 0,
+						"minimum": -0.26224076747894289,
+						"maximum": 9.290815353393555,
+						"scale": 0.03746296465396881,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9014,10 +9014,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 524.135986328125,
-						"scale": 2.0554354190826418,
-						"offset": 0,
+						"minimum": -0.26224076747894289,
+						"maximum": 9.290815353393555,
+						"scale": 0.03746296465396881,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9051,8 +9051,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999063014984131,
+						"scale": 0.00392120098695159,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -9086,10 +9086,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -892.5682373046875,
-						"maximum": 521.1267700195313,
-						"scale": 5.5439019203186039,
-						"offset": -161,
+						"minimum": -18.651592254638673,
+						"maximum": 9.325796127319336,
+						"scale": 0.10971524566411972,
+						"offset": -170,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9122,10 +9122,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 391.2185974121094,
-						"scale": 1.5341905355453492,
-						"offset": 0,
+						"minimum": -0.28688934445381167,
+						"maximum": 8.857708930969239,
+						"scale": 0.035861168056726459,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9159,8 +9159,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.999859094619751,
+						"scale": 0.003921016119420528,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -9194,10 +9194,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -475.9297790527344,
-						"maximum": 390.9422912597656,
-						"scale": 3.399498224258423,
-						"offset": -140,
+						"minimum": -15.905695915222168,
+						"maximum": 8.825721740722657,
+						"scale": 0.09698595106601715,
+						"offset": -164,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9230,10 +9230,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -1.0637269020080567,
-						"maximum": 270.1866149902344,
-						"scale": 1.0637269020080567,
-						"offset": -1,
+						"minimum": -0.5619293451309204,
+						"maximum": 10.460531234741211,
+						"scale": 0.04322533681988716,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9266,10 +9266,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.4506772756576538,
-						"maximum": 114.47203063964844,
-						"scale": 0.4506772756576538,
-						"offset": -1,
+						"minimum": -0.27275627851486208,
+						"maximum": 6.682528972625732,
+						"scale": 0.027275629341602327,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9303,8 +9303,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.998752236366272,
+						"scale": 0.003916675224900246,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -9338,10 +9338,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -282.04522705078127,
-						"maximum": 115.31130981445313,
-						"scale": 1.5582610368728638,
-						"offset": -181,
+						"minimum": -9.277397155761719,
+						"maximum": 6.7073073387146,
+						"scale": 0.06268511712551117,
+						"offset": -148,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9374,10 +9374,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.5428985357284546,
-						"maximum": 137.89622497558595,
-						"scale": 0.5428985357284546,
-						"offset": -1,
+						"minimum": -0.27063611149787905,
+						"maximum": 8.355890274047852,
+						"scale": 0.03382951393723488,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9411,8 +9411,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9997636675834656,
+						"scale": 0.003920641727745533,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -9446,10 +9446,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -146.5247039794922,
-						"maximum": 138.69512939453126,
-						"scale": 1.1185091733932496,
-						"offset": -131,
+						"minimum": -9.125558853149414,
+						"maximum": 8.370813369750977,
+						"scale": 0.06861322373151779,
+						"offset": -133,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9482,10 +9482,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 352.01007080078127,
-						"scale": 1.3804316520690919,
-						"offset": 0,
+						"minimum": -0.2862246334552765,
+						"maximum": 6.348982810974121,
+						"scale": 0.026020420715212823,
+						"offset": -11,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9519,8 +9519,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.998286783695221,
+						"scale": 0.003914850298315287,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -9554,10 +9554,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -334.03936767578127,
-						"maximum": 352.8964538574219,
-						"scale": 2.693866014480591,
-						"offset": -124,
+						"minimum": -8.842869758605957,
+						"maximum": 6.393156051635742,
+						"scale": 0.059749118983745578,
+						"offset": -148,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9590,10 +9590,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 327.1758728027344,
-						"scale": 1.283042550086975,
-						"offset": 0,
+						"minimum": -0.2924971878528595,
+						"maximum": 9.5660982131958,
+						"scale": 0.038661159574985507,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9626,10 +9626,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 327.1758728027344,
-						"scale": 1.283042550086975,
-						"offset": 0,
+						"minimum": -0.2700108587741852,
+						"maximum": 9.5660982131958,
+						"scale": 0.03857297822833061,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9662,10 +9662,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 327.1758728027344,
-						"scale": 1.283042550086975,
-						"offset": 0,
+						"minimum": -0.2700108587741852,
+						"maximum": 9.5660982131958,
+						"scale": 0.03857297822833061,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9698,10 +9698,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 327.1758728027344,
-						"scale": 1.283042550086975,
-						"offset": 0,
+						"minimum": -0.2700108587741852,
+						"maximum": 9.5660982131958,
+						"scale": 0.03857297822833061,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9735,8 +9735,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999294281005859,
+						"scale": 0.003921291790902615,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -9770,10 +9770,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -480.8749084472656,
-						"maximum": 325.85601806640627,
-						"scale": 3.1636507511138918,
-						"offset": -152,
+						"minimum": -11.848228454589844,
+						"maximum": 9.579418182373047,
+						"scale": 0.08402998745441437,
+						"offset": -141,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9806,10 +9806,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 186.29510498046876,
-						"scale": 0.730569064617157,
-						"offset": 0,
+						"minimum": -0.28455865383148196,
+						"maximum": 6.971687316894531,
+						"scale": 0.028455866500735284,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9843,8 +9843,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9990744590759277,
+						"scale": 0.003917939029633999,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -9878,10 +9878,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -328.8855895996094,
-						"maximum": 185.62867736816407,
-						"scale": 2.017703056335449,
-						"offset": -163,
+						"minimum": -9.945002555847168,
+						"maximum": 6.961501598358154,
+						"scale": 0.06630001217126847,
+						"offset": -150,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9914,10 +9914,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.811928391456604,
-						"maximum": 357.0750732421875,
-						"scale": 1.4034783840179444,
-						"offset": -1,
+						"minimum": -0.8609912991523743,
+						"maximum": 14.82135009765625,
+						"scale": 0.06149937957525253,
+						"offset": -14,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9950,10 +9950,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 189.1164093017578,
-						"scale": 0.7416329979896545,
-						"offset": 0,
+						"minimum": -0.2745727598667145,
+						"maximum": 4.726573944091797,
+						"scale": 0.01961234025657177,
+						"offset": -14,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -9987,8 +9987,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9915325045585632,
+						"scale": 0.0038883627858012916,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -10022,10 +10022,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -175.8841552734375,
-						"maximum": 188.7537384033203,
-						"scale": 1.4299525022506714,
-						"offset": -123,
+						"minimum": -5.11789608001709,
+						"maximum": 4.768949031829834,
+						"scale": 0.038771942257881168,
+						"offset": -132,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10058,10 +10058,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 357.0750732421875,
-						"scale": 1.4002944231033326,
-						"offset": 0,
+						"minimum": -0.29525041580200198,
+						"maximum": 14.762521743774414,
+						"scale": 0.05905008688569069,
+						"offset": -5,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10095,8 +10095,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999996423721314,
+						"scale": 0.0039215669967234139,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -10130,10 +10130,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -425.87127685546877,
-						"maximum": 355.40338134765627,
-						"scale": 3.0638222694396974,
-						"offset": -139,
+						"minimum": -11.21073055267334,
+						"maximum": 14.77778148651123,
+						"scale": 0.10191573202610016,
+						"offset": -110,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10166,10 +10166,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 228.43527221679688,
-						"scale": 0.8958246111869812,
-						"offset": 0,
+						"minimum": -0.2924971878528595,
+						"maximum": 9.030851364135743,
+						"scale": 0.03656214848160744,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10203,8 +10203,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9998821020126343,
+						"scale": 0.003921106457710266,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -10238,10 +10238,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -404.900634765625,
-						"maximum": 228.5328826904297,
-						"scale": 2.484052896499634,
-						"offset": -163,
+						"minimum": -11.057387351989746,
+						"maximum": 9.082854270935059,
+						"scale": 0.07898133993148804,
+						"offset": -140,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10274,10 +10274,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.7737653255462647,
-						"maximum": 196.53639221191407,
-						"scale": 0.7737653255462647,
-						"offset": -1,
+						"minimum": -0.5678215622901917,
+						"maximum": 9.774641990661621,
+						"scale": 0.04055868089199066,
+						"offset": -14,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10310,10 +10310,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.46932142972946169,
-						"maximum": 119.2076416015625,
-						"scale": 0.46932142972946169,
-						"offset": -1,
+						"minimum": -0.2696956396102905,
+						"maximum": 6.607542991638184,
+						"scale": 0.026969563215970994,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10347,8 +10347,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.998651921749115,
+						"scale": 0.003916282206773758,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -10382,10 +10382,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -204.1485595703125,
-						"maximum": 119.19232940673828,
-						"scale": 1.2680034637451172,
-						"offset": -161,
+						"minimum": -7.6959147453308109,
+						"maximum": 6.628597736358643,
+						"scale": 0.05617455765604973,
+						"offset": -137,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10418,10 +10418,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2157907634973526,
-						"maximum": 54.810855865478519,
-						"scale": 0.2157907634973526,
-						"offset": -1,
+						"minimum": -0.29117292165756228,
+						"maximum": 7.95872688293457,
+						"scale": 0.032352548092603686,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10455,8 +10455,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9996558427810669,
+						"scale": 0.0039202189072966579,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -10490,10 +10490,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -93.9737319946289,
-						"maximum": 54.86664962768555,
-						"scale": 0.5836877822875977,
-						"offset": -161,
+						"minimum": -9.246805191040039,
+						"maximum": 7.964401721954346,
+						"scale": 0.06749492883682251,
+						"offset": -137,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10526,10 +10526,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.811928391456604,
-						"maximum": 206.2298126220703,
-						"scale": 0.811928391456604,
-						"offset": -1,
+						"minimum": -0.8609912991523743,
+						"maximum": 14.82135009765625,
+						"scale": 0.06149937957525253,
+						"offset": -14,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10562,10 +10562,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2352684587240219,
-						"maximum": 59.7581901550293,
-						"scale": 0.2352684587240219,
-						"offset": -1,
+						"minimum": -0.27450403571128847,
+						"maximum": 6.725348949432373,
+						"scale": 0.027450403198599817,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10599,8 +10599,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9988062381744385,
+						"scale": 0.003916887100785971,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -10634,10 +10634,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -128.81947326660157,
-						"maximum": 59.967689514160159,
-						"scale": 0.74034184217453,
-						"offset": -174,
+						"minimum": -7.0943732261657719,
+						"maximum": 6.71528434753418,
+						"scale": 0.05415552109479904,
+						"offset": -131,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10670,10 +10670,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.3594331443309784,
-						"maximum": 91.29601287841797,
-						"scale": 0.3594331443309784,
-						"offset": -1,
+						"minimum": -0.27484947443008425,
+						"maximum": 9.737524032592774,
+						"scale": 0.03926420956850052,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10707,8 +10707,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999407529830933,
+						"scale": 0.003921336494386196,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -10742,10 +10742,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -128.3304443359375,
-						"maximum": 91.29547882080078,
-						"scale": 0.8612781167030335,
-						"offset": -149,
+						"minimum": -9.84354305267334,
+						"maximum": 9.766640663146973,
+						"scale": 0.07690268009901047,
+						"offset": -128,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10778,10 +10778,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 167.45620727539063,
-						"scale": 0.6566910147666931,
-						"offset": 0,
+						"minimum": -0.2803990840911865,
+						"maximum": 8.65732192993164,
+						"scale": 0.035049885511398318,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10815,8 +10815,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9998268485069275,
+						"scale": 0.003920889459550381,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -10850,10 +10850,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -213.97256469726563,
-						"maximum": 167.5869140625,
-						"scale": 1.4963116645812989,
-						"offset": -143,
+						"minimum": -8.201654434204102,
+						"maximum": 8.664651870727539,
+						"scale": 0.06614238023757935,
+						"offset": -124,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10886,10 +10886,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.343012273311615,
-						"maximum": 249.79669189453126,
-						"scale": 0.980940043926239,
-						"offset": 0,
+						"minimum": -0.2774328887462616,
+						"maximum": 9.21712875366211,
+						"scale": 0.03723357617855072,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10922,10 +10922,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 249.79669189453126,
-						"scale": 0.979594886302948,
-						"offset": 0,
+						"minimum": -0.260160893201828,
+						"maximum": 9.21712875366211,
+						"scale": 0.03716583922505379,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10958,10 +10958,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 249.79669189453126,
-						"scale": 0.979594886302948,
-						"offset": 0,
+						"minimum": -0.260160893201828,
+						"maximum": 9.21712875366211,
+						"scale": 0.03716583922505379,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -10994,10 +10994,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 249.79669189453126,
-						"scale": 0.979594886302948,
-						"offset": 0,
+						"minimum": -0.260160893201828,
+						"maximum": 9.21712875366211,
+						"scale": 0.03716583922505379,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11031,8 +11031,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9998989105224609,
+						"scale": 0.0039211721159517769,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -11066,10 +11066,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -286.029541015625,
-						"maximum": 250.27584838867188,
-						"scale": 2.1031582355499269,
-						"offset": -136,
+						"minimum": -9.750484466552735,
+						"maximum": 9.229466438293457,
+						"scale": 0.07443118095397949,
+						"offset": -131,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11102,10 +11102,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 334.3946228027344,
-						"scale": 1.3113514184951783,
-						"offset": 0,
+						"minimum": -0.2777274549007416,
+						"maximum": 8.574834823608399,
+						"scale": 0.0347159318625927,
+						"offset": -8,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11139,8 +11139,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9998114705085754,
+						"scale": 0.003920829389244318,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -11174,10 +11174,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -211.43678283691407,
-						"maximum": 333.173095703125,
-						"scale": 2.1357250213623049,
-						"offset": -99,
+						"minimum": -11.913850784301758,
+						"maximum": 8.613391876220704,
+						"scale": 0.08049899339675904,
+						"offset": -148,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11210,10 +11210,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.9426217675209045,
-						"maximum": 191.18240356445313,
-						"scale": 0.753431499004364,
-						"offset": -1,
+						"minimum": -0.8147638440132141,
+						"maximum": 15.167141914367676,
+						"scale": 0.0626741424202919,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11246,10 +11246,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.23453857004642487,
-						"maximum": 59.57279586791992,
-						"scale": 0.23453857004642487,
-						"offset": -1,
+						"minimum": -0.28169432282447817,
+						"maximum": 9.980027198791504,
+						"scale": 0.04024204611778259,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11283,8 +11283,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999538660049439,
+						"scale": 0.0039213877171278,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -11318,10 +11318,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -155.06570434570313,
-						"maximum": 59.83513641357422,
-						"scale": 0.8427484035491943,
-						"offset": -184,
+						"minimum": -7.2381415367126469,
+						"maximum": 10.011634826660157,
+						"scale": 0.06764618307352066,
+						"offset": -107,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11354,10 +11354,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.0,
-						"maximum": 191.18240356445313,
-						"scale": 0.7497349381446838,
-						"offset": 0,
+						"minimum": -0.29629281163215639,
+						"maximum": 10.497231483459473,
+						"scale": 0.04232754558324814,
+						"offset": -7,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11391,8 +11391,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.999972939491272,
+						"scale": 0.0039214626885950569,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -11426,10 +11426,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -248.0255889892578,
-						"maximum": 191.1864013671875,
-						"scale": 1.7223999500274659,
-						"offset": -144,
+						"minimum": -10.301328659057618,
+						"maximum": 10.546598434448243,
+						"scale": 0.0817565768957138,
+						"offset": -126,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11462,10 +11462,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.343012273311615,
-						"maximum": 87.1251220703125,
-						"scale": 0.343012273311615,
-						"offset": -1,
+						"minimum": -0.2774328887462616,
+						"maximum": 7.583165645599365,
+						"scale": 0.03082587569952011,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11499,8 +11499,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9994927644729614,
+						"scale": 0.003919579554349184,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -11534,10 +11534,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -99.77241516113281,
-						"maximum": 87.30086517333985,
-						"scale": 0.7336207032203674,
-						"offset": -136,
+						"minimum": -9.960247039794922,
+						"maximum": 7.556049823760986,
+						"scale": 0.06869135797023773,
+						"offset": -145,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11570,10 +11570,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.47101137042045596,
-						"maximum": 59.58293533325195,
-						"scale": 0.23550568521022798,
-						"offset": -2,
+						"minimum": -0.5855661630630493,
+						"maximum": 14.3463716506958,
+						"scale": 0.05855662003159523,
+						"offset": -10,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11606,10 +11606,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.20272627472877503,
-						"maximum": 51.49247360229492,
-						"scale": 0.20272627472877503,
-						"offset": -1,
+						"minimum": -0.25999781489372256,
+						"maximum": 12.999890327453614,
+						"scale": 0.05199956148862839,
+						"offset": -5,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11643,8 +11643,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999977350234985,
+						"scale": 0.0039215595461428169,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -11678,10 +11678,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -91.2927017211914,
-						"maximum": 51.52716827392578,
-						"scale": 0.5600779056549072,
-						"offset": -163,
+						"minimum": -12.26865291595459,
+						"maximum": 12.961237907409668,
+						"scale": 0.09894074499607086,
+						"offset": -124,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11714,10 +11714,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2547585964202881,
-						"maximum": 32.226959228515628,
-						"scale": 0.12737929821014405,
-						"offset": -2,
+						"minimum": -0.275892049074173,
+						"maximum": 13.794601440429688,
+						"scale": 0.055178407579660419,
+						"offset": -5,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11751,8 +11751,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.999998927116394,
+						"scale": 0.00392156420275569,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -11786,10 +11786,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -45.28749465942383,
-						"maximum": 32.21794891357422,
-						"scale": 0.3039429187774658,
-						"offset": -149,
+						"minimum": -9.66822338104248,
+						"maximum": 13.811748504638672,
+						"scale": 0.0920783206820488,
+						"offset": -105,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11822,10 +11822,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.9426217675209045,
-						"maximum": 59.14951705932617,
-						"scale": 0.23565544188022614,
-						"offset": -4,
+						"minimum": -0.8147638440132141,
+						"maximum": 15.167141914367676,
+						"scale": 0.0626741424202919,
+						"offset": -13,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11858,10 +11858,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.25076696276664736,
-						"maximum": 21.06442642211914,
-						"scale": 0.08358898758888245,
-						"offset": -3,
+						"minimum": -0.26783522963523867,
+						"maximum": 7.320829391479492,
+						"scale": 0.029759470373392106,
+						"offset": -9,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11895,8 +11895,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.999334990978241,
+						"scale": 0.003918960690498352,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -11930,10 +11930,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -50.67123794555664,
-						"maximum": 21.11301612854004,
-						"scale": 0.28150686621665957,
-						"offset": -180,
+						"minimum": -9.212449073791504,
+						"maximum": 7.331033229827881,
+						"scale": 0.06487639993429184,
+						"offset": -142,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -11966,10 +11966,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.2840522527694702,
-						"maximum": 17.824277877807618,
-						"scale": 0.07101306319236756,
-						"offset": -4,
+						"minimum": -0.28380146622657778,
+						"maximum": 11.777761459350586,
+						"scale": 0.047300245612859729,
+						"offset": -6,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -12003,8 +12003,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9999923706054688,
+						"scale": 0.003921538591384888,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -12038,10 +12038,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -19.487138748168947,
-						"maximum": 17.87542152404785,
-						"scale": 0.14651983976364137,
-						"offset": -133,
+						"minimum": -14.524384498596192,
+						"maximum": 11.743120193481446,
+						"scale": 0.10300981998443604,
+						"offset": -141,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -12074,10 +12074,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -105.26885986328125,
-						"maximum": 99.64380645751953,
-						"scale": 0.8035790920257568,
-						"offset": -131,
+						"minimum": -4.607759475708008,
+						"maximum": 7.8920135498046879,
+						"scale": 0.04901871830224991,
+						"offset": -94,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -12110,10 +12110,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -105.26885986328125,
-						"maximum": 99.64380645751953,
-						"scale": 0.8035790920257568,
-						"offset": -131,
+						"minimum": -4.607759475708008,
+						"maximum": 7.8920135498046879,
+						"scale": 0.04901871830224991,
+						"offset": -94,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -12146,10 +12146,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -0.4845413565635681,
-						"maximum": 123.07350158691406,
-						"scale": 0.4845413565635681,
-						"offset": -1,
+						"minimum": -0.284054696559906,
+						"maximum": 4.544875144958496,
+						"scale": 0.01893697865307331,
+						"offset": -15,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -12183,8 +12183,8 @@
 					"scale_offset": {
 						"bitwidth": 8,
 						"minimum": 0.0,
-						"maximum": 1.0,
-						"scale": 0.003921568859368563,
+						"maximum": 0.9900124073028565,
+						"scale": 0.0038824016228318216,
 						"offset": 0,
 						"is_symmetric": false,
 						"is_fixed_point": true
@@ -12218,10 +12218,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -140.74537658691407,
-						"maximum": 123.1521987915039,
-						"scale": 1.0348924398422242,
-						"offset": -136,
+						"minimum": -9.498557090759278,
+						"maximum": 4.583605766296387,
+						"scale": 0.05522416904568672,
+						"offset": -172,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -12254,10 +12254,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -105.26885986328125,
-						"maximum": 99.64380645751953,
-						"scale": 0.8035790920257568,
-						"offset": -131,
+						"minimum": -4.607759475708008,
+						"maximum": 7.8920135498046879,
+						"scale": 0.04901871830224991,
+						"offset": -94,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -12290,10 +12290,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -105.26885986328125,
-						"maximum": 99.64380645751953,
-						"scale": 0.8035790920257568,
-						"offset": -131,
+						"minimum": -4.607759475708008,
+						"maximum": 7.8920135498046879,
+						"scale": 0.04901871830224991,
+						"offset": -94,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
@@ -12326,10 +12326,10 @@
 					"is_overridden": false,
 					"scale_offset": {
 						"bitwidth": 8,
-						"minimum": -105.26885986328125,
-						"maximum": 99.64380645751953,
-						"scale": 0.8035790920257568,
-						"offset": -131,
+						"minimum": -4.607759475708008,
+						"maximum": 7.8920135498046879,
+						"scale": 0.04901871830224991,
+						"offset": -94,
 						"is_symmetric": false,
 						"is_fixed_point": true
 					}
